@@ -1,0 +1,1 @@
+1.to veiw all commit history:git log
