@@ -1,3 +1,4 @@
 1.to veiw all commit history:git log
 2.to view all branches:git branch
 3.to check out branch:git checkout branch
+4.to rebase remote and local repo:git pull --rebase origin master
