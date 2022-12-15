@@ -1,4 +1,6 @@
 # Repo-for-Fun
 this is readme file.
 ok .
-haina hola aau
+here are simple and basic commands
+
+
